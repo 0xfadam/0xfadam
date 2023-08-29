@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-My name is Frédéric ADAM, I currently work as a Security Expert for a major French bank.
+My name is Frédéric ADAM, I currently work as a Security Expert.
 
 My experience includes  : 
 * 4 years as Web2 pentester, focused primarily in Web
