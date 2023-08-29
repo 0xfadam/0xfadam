@@ -40,7 +40,3 @@ In my spare time, I research vulnerabilities on [Immunefi](immunefi.com) in the 
 * [Linkedin](https://fr.linkedin.com/in/%F0%9F%90%88%E2%80%8D-fr%C3%A9d%C3%A9ric-adam-729b49112)
 * [MevSec](https://mevsec.com/)
 * [Github](https://github.com/0xfadam)
-
-
-## Contact
-email: contact[at]fadam.xyz
