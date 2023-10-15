@@ -13,7 +13,7 @@ My experience includes  :
 * 2 years as Web Infrastructure/Security engineer, worked on CDN, DNS, Web servers, CI/CD…
 
 ## Interests
-In my spare time, I research vulnerabilities on [Immunefi](immunefi.com) in the domains detailed below.
+In my spare time, I research vulnerabilities on [Immunefi](https://immunefi.com) in the domains detailed below.
 * **Web2 impacting Web3** : Web2 remains the entry door to the Web3 world for most users. This field is critical and underestimated by most projects.
 * **Bridges**: Bridges hold huge amounts of money. They also require Web2 infrastructure (servers, network communication) and Web3 (smart contracts). This unique combination creates more possibilities for an attacker, and I believe more vulnerabilities are to be discovered in this area.
 * **Blockchain infrastructure** : Finding vulnerabilities within the services exposed by the Blockchain software, that can cause damage to the entire blockchain. For instance, being able to DoS an Ethereum node with GraphQL.
